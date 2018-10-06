@@ -30,6 +30,26 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 24. Advanced Portfolio Optimization
 25. Multi-factor Model
 
+## Tutorials
+- [Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
+- [Computational Investing, Part I](https://www.coursera.org/learn/computational-investing)
+- [Quantitative  Analyst with R](https://www.datacamp.com/tracks/quantitative-analyst-with-r)
+
+
+## Projects
+
+## Reading List
+
+## Communities
+- [The Python Quants Group](http://tpq.io/)
+- [QuantConnect](https://www.quantconnect.com/)
+- [Quantopian](https://www.quantopian.com/home)
+- [QuantNet](https://quantnet.com/courses/)
+- [QuantStart](https://www.quantstart.com/)
+
+
+## License
+
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
