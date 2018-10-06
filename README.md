@@ -1,6 +1,8 @@
-# awesome-algorithmic-trading
+## awesome-algorithmic-trading
 
-# Table of Content
+A curated list of awesome algorithmic trading tutorials, projects and communities.
+
+## Table of Contents
 
 1. Stock Prices
 2. Market Mechanics
@@ -27,3 +29,7 @@
 23. Alpha Factor Research Methods
 24. Advanced Portfolio Optimization
 25. Multi-factor Model
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
