@@ -62,7 +62,49 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
-## Reading List
+## Articles
+
+- [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
+
+- [The 15 Stock Diversification Myth](http://www.efficientfrontier.com/ef/900/15st.htm)
+
+- [The Limitations of Ratio Analysis](https://www.accountingtools.com/articles/what-are-the-limitations-of-ratio-analysis.html)
+
+- [The Right Way and the Wrong Way to Benchmark a Diversified Portfolio](https://blog.wealthfront.com/benchmark-diversified-portfolio/)
+
+- [Performance Measurement: The What, Why, and How of the Investment Management Process](https://blogs.cfainstitute.org/investor/2012/06/01/performance-measurement-and-attribution-the-what-why-and-how-of-the-investment-management-process/)
+
+- [Utility Theory and Attitude toward Risk (Explained With Diagram)](http://www.economicsdiscussion.net/articles/utility-theory-and-attitude-toward-risk-explained-with-diagram/1384)
+
+- [The Guide to Diversification](https://www.fidelity.com/viewpoints/investing-ideas/guide-to-diversification)
+
+- [Diversification: How much is too much?](https://www.livemint.com/Money/dvv39OemfWlZ2zPB9RGobL/Diversification-How-much-is-too-much.html)
+
+- [Successful Backtesting of Algorithmic Trading Strategies - Part I](https://www.quantstart.com/articles/Successful-Backtesting-of-Algorithmic-Trading-Strategies-Part-I)
+
+- [Successful Backtesting of Algorithmic Trading Strategies - Part II](https://www.quantstart.com/articles/Successful-Backtesting-of-Algorithmic-Trading-Strategies-Part-II)
+
+## Research Papers
+
+- [Are Markets Efficient?](http://review.chicagobooth.edu/economics/2016/video/are-markets-efficient)
+
+- [Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers](https://www.chicagobooth.edu/~/media/FE874EE65F624AAEBD0166B1974FD74D.pdf)
+
+- [Do Stock Prices Fully Reflect Information in Accruals and Cash Flows about Future Earnings?](http://econ.au.dk/fileadmin/Economics_Business/Education/Summer_University_2012/6308_Advanced_Financial_Accounting/Advanced_Financial_Accounting/2/Sloan_1996_TAR.pdf)
+
+- [Betting Against Beta](http://pages.stern.nyu.edu/~lpederse/papers/BettingAgainstBeta.pdf)
+
+- [Momentum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=299107)
+
+- [Separating Winners from Losers Among Low Book-to-Market Stocks Using Financial Statement Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=403180)
+
+- [The 101 Ways to Measure Portfolio Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1326076)
+
+- [Does the Composition of the Market Portfolio Really Matter?](https://faculty.mccombs.utexas.edu/keith.brown/Research/JPM-12.87.pdf)
+
+- [Pairs Trading: Performance of a Relative Value Arbitrage Rule](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=141615)
+
+## Books
 - [Algorithmic Trading and DMA: An introduction to direct access trading strategies](https://www.amazon.com/gp/product/0956399207/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0956399207&linkCode=as2&tag=quant0f-20)
 
 - [Building Winning Algorithmic Trading Systems, + Website: A Trader's Journey From Data Mining to Monte Carlo Simulation to Live Trading (Wiley Trading)](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems/dp/1118778987/ref=sr_1_1?s=books&ie=UTF8&qid=1538798383&sr=1-1&keywords=Building+Winning+Algorithmic+Trading+Systems%2C+%2B+Website%3A+A+Trader%27s+Journey+From+Data+Mining+to+Monte+Carlo+Simulation+to+Live+Trading+%28Wiley+Trading)
