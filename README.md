@@ -123,6 +123,10 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 - [Quantitative Investing: Strategies to exploit stock market anomalies for all investors](https://www.amazon.com/Quantitative-Investing-Strategies-anomalies-investors/dp/0857193007/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 ## Communities
+- [Advanced Risk and Portfolio Management](https://www.arpm.co/)
+
+- [Certificate in Quantitative Finance](https://www.cqf.com/)
+
 - [The Python Quants Group](http://tpq.io/)
 
 - [Quantor](https://quantor.co/)
