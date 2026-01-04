@@ -139,6 +139,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 - [QuantStart](https://www.quantstart.com/)
 
+- [FinancialData.Net](financialdata.net)
+
 
 ## License
 
