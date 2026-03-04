@@ -61,6 +61,12 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 
 ## Projects
+- [iGotFomo Stock Screener](https://igotfomo.com/stocks/screener) - AI-powered stock screener with convergence signals across 6,000+ stocks. Uses 12 signal types (technical, fundamental, options flow, insider, dark pool, earnings) with IC-weighted scoring and regime conditioning.
+
+## Tools
+- [iGotFomo Market Pulse](https://igotfomo.com/tools/market-pulse.html) - Free live market dashboard with indices, sector heatmap, top movers, and fear & greed gauge
+- [iGotFomo Stock Calculator](https://igotfomo.com/tools/stock-calculator.html) - Investment return, DCA, and options P/L calculator with live stock prices
+- [iGotFomo Ticker Widget](https://igotfomo.com/widgets/) - Free embeddable live stock ticker widget for any website
 
 ## Articles
 
