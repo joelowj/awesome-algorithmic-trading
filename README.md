@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [FinClaw](https://github.com/NeuZhou/finclaw) - AI-powered financial intelligence engine with 8 master trading strategies, multi-agent architecture, supporting US/CN/HK markets. +29.1% annual alpha in backtesting. 227 tests.
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
