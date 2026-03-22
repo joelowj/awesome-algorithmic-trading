@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [NexusFix](https://github.com/SilverstreamsAI/NexusFix) - C++23 FIX protocol engine with zero-copy parsing and SIMD acceleration, built for low-latency trading.
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
