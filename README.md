@@ -139,6 +139,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 - [QuantStart](https://www.quantstart.com/)
 
+- [KeepRule](https://keeprule.com) - Free investment principles knowledge base with 500+ rules from Buffett, Munger, Graham and more, organized by investing scenarios.
+
 
 ## License
 
