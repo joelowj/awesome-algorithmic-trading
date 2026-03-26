@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [FlashAlpha](https://flashalpha.com) - Options analytics API providing real-time gamma exposure (GEX), delta, vanna, charm exposure, Black-Scholes greeks, implied volatility, 0DTE analytics, and volatility surfaces. [Python SDK](https://github.com/FlashAlpha-lab/flashalpha-python) available via pip.
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
