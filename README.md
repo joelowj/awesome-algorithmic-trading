@@ -61,6 +61,7 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 
 ## Projects
+- [Congressional Stock Brain](https://congressionalstockbrain.com) - Free AI-powered fintech tool that ingests U.S. STOCK Act disclosures (publicly filed lawmaker trades) and converts them into machine-scored trade signals for retail investors.
 
 ## Articles
 
