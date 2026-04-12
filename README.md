@@ -146,4 +146,4 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-* [FinClaw](https://github.com/NeuZhou/finclaw) - Auto-evolve trading strategies with genetic algorithms. 484 factors, walk-forward validation, built-in paper trading. Python.
+* [StratEvo](https://github.com/NeuZhou/stratevo) - Auto-evolve trading strategies with genetic algorithms. 484+ factors, walk-forward validation, MCP server for AI agents. Python.
