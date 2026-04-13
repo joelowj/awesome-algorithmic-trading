@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [Adanos Market Sentiment API](https://api.adanos.org/docs/) - API for stock market sentiment signals from Reddit, X/Twitter, and Polymarket for algorithmic trading research workflows.
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
