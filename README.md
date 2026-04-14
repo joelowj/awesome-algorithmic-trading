@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [Helium Trades](https://heliumtrades.com/mcp) - Live stock, ETF, and crypto market data with AI bull/bear cases and probability scenarios; ML-powered options pricing (fair value, probability ITM, Greeks); AI-ranked options strategies; historical options data; news search with bias scoring; REST API and MCP server. [GitHub](https://github.com/connerlambden/helium-mcp)
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
