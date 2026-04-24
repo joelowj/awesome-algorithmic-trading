@@ -1,5 +1,6 @@
 ## awesome-algorithmic-trading
 
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot for Bybit with 70.9% walk-forward validated accuracy. LightGBM + XGBoost ensemble with 72 ML features.
 A curated list of awesome algorithmic trading tutorials, projects and communities.
 
 ## Table of Contents
