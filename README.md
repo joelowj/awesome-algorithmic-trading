@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 3-model ML ensemble (XGBoost, HMM, Transformer), 70.9% walk-forward accuracy, supporting 12 exchanges. Open source, cloud platform with dashboard and backtesting.
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
