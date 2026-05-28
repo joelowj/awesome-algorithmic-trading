@@ -62,6 +62,10 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [ShowMe](https://github.com/nazmiefearmutcu/showMe) - Open-source native macOS market cockpit (Tauri + Python + React). 12-timeframe consensus scan over 3370 symbols (crypto + equity + ETF + FX + commodity + bond), 23 technical indicators with per-market calibration, real WebSocket streaming, ccxt-backed multi-exchange connectivity (110+ exchanges), bot supervisor with 12 template strategies, paper-trade mode.
+
+- [TBV1](https://github.com/nazmiefearmutcu/TRADING-BOT) - Python crypto perpetual-futures bot with a 7-tab web dashboard and a 15-indicator consensus engine voting across 12 timeframes (1m → 1d). Paper-mode by default; macOS reference build + Windows packaged distribution.
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
