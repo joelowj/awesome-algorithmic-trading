@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [dgbit](https://github.com/cryptuon/dgbit) - Professional Algorithmic Trading Framework for Bybit; Python, with backtesting, high-frequency strategies, Docker support, and a full Bybit exchange-API wrapper.
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
