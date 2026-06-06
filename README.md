@@ -62,6 +62,9 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [GFIL BOSS PANEL](https://gold-node.xyz/) - Institutional-grade trading terminal with real-time WebSocket data (sub-50ms latency) across 30+ assets including forex, gold, oil, indices, and crypto. Built-in order flow analysis, cumulative delta, and signal performance tracking. [Trading strategies blog](https://blog.quant-view.xyz)
+
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
