@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
