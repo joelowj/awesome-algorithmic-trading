@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [FilingFirehose](https://filingfirehose.com) - Free SEC filing risk scoring on any US stock ticker (LOW/MODERATE/ELEVATED/HIGH). Surfaces 8-K cyber incidents, dilution, restatement risk, and officer departures. Premium tiers from $9/mo.
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
