@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [AgentServices](https://github.com/vbkotecha/agentservices) — x402-paid crypto and market data API platform with 54 services, 97 endpoints, and an MCP server with 37 tools for algorithmic trading data access. Pay-per-call via on-chain USDC settlement.
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
