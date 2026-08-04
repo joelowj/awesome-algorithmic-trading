@@ -61,6 +61,7 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 
 ## Projects
+[nse-swing-trading-bot](<repo-link>) - Free-data NSE paper-trading system with cross-sectional alpha scoring, Loughran-McDonald news sentiment, and A/B/C backtest validation.
 
 ## Articles
 
