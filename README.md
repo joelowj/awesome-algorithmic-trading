@@ -138,6 +138,7 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 - [QuantNet](https://quantnet.com/courses/)
 
 - [QuantStart](https://www.quantstart.com/)
+- [SmartQuant](https://smartquanthq.com) - AI quant trading learning hub: 180 pages, 5 languages (ZH/EN/JA/KO/AR), free educational content on AI strategies, backtesting, and risk management.
 
 
 ## License
