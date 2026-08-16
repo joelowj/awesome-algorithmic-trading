@@ -62,6 +62,12 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [backtrader (cloudQuant fork)](https://github.com/cloudQuant/backtrader) - Actively maintained, performance-optimized Python backtesting and live trading framework with 50+ indicators, 20+ data sources, and an AI-native strategy workflow (MCP server, agent skills, web platform).
+
+- [backtrader_web](https://github.com/cloudQuant/backtrader_web) - "AI for Investor": web-based full-cycle Backtrader strategy platform (Vue 3 + FastAPI) covering research, AI strategy generation, backtesting, paper trading, live execution, and market-data management.
+
+- [fincore](https://github.com/cloudQuant/fincore) - Quantitative performance & risk analytics library with 150+ financial metrics, portfolio optimization, Monte Carlo simulation, and performance attribution; actively maintained successor to empyrical, pyfolio, and alphalens.
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
