@@ -138,6 +138,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 - [QuantNet](https://quantnet.com/courses/)
 
 - [QuantStart](https://www.quantstart.com/)
+- [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 7 EVM chains plus a keyless REST API.
+
 
 
 ## License
