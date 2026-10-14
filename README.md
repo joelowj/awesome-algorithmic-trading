@@ -62,6 +62,9 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [OpenBacktesting](https://github.com/lucidcog/openbacktesting) - Python framework for single-asset historical backtesting with pandas statistics, technical indicators, and parameter optimization.
+
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
