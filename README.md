@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+* [Alphanume Strategy Lab](https://github.com/alphanume-markets/Alphanume-Strategy-Lab) - Python strategy-research examples covering event-driven equities, cross-sectional trading, and risk-regime modeling; Alphanume API access is required.
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
