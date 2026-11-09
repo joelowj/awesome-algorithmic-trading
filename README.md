@@ -62,6 +62,8 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 ## Projects
 
+- [Altcoin Anomaly Radar](https://github.com/fuba-agent/altcoin-anomaly-radar) — open-source Python scanner for Bitget USDT perpetuals: funding-rate extremes, 24-hour moves and volume filters, with a plain-English read per hit. No API key required.
+
 ## Articles
 
 - [10 Things to Know About Every Cash Flow Statement](https://investinganswers.com/education/financial-statement-analysis/10-things-know-about-every-cash-flow-statement-1023)
