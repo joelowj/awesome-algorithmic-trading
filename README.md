@@ -61,6 +61,7 @@ A curated list of awesome algorithmic trading tutorials, projects and communitie
 
 
 ## Projects
+- [Crypto-Strategies](https://github.com/CacheCarti/Crypto-Strategies) - Open corpus of ~2,700 crypto trading strategies with per-stage validation report cards and hash-bound certificates.
 
 ## Articles
 
